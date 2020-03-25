@@ -159,7 +159,7 @@ body {
 			rgba(95, 95, 95, 0.52),
 			rgba(0, 0, 0, 0.993)
 		),
-		url(/img/main-bg.jpeg);
+		url(https://sultonbekovsarvarbek.github.io/arh-int/img/main-bg.jpeg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -497,7 +497,7 @@ body {
 			rgb(0, 0, 0),
 			rgba(78, 78, 78, 0.247)
 		),
-		url("/img/footer-bg.jpeg");
+		url("https://sultonbekovsarvarbek.github.io/arh-int/img/footer-bg.jpeg");
 
 	background-position: center;
 	background-size: cover;
